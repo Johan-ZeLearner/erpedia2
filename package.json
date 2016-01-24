@@ -1,0 +1,40 @@
+{
+  "name": "erpedia2",
+  "version": "0.0.1",
+  "description": "Node implementation of the Erpedia API",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.1",
+    "cors": "^2.7.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "express-session": "^1.13.0",
+    "http-errors": "^1.3.1",
+    "knex": "^0.9.0",
+    "mariasql": "^0.2.5",
+    "md5": "^2.0.0",
+    "oauth2orize": "^1.2.1",
+    "objection": "^0.4.0",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0",
+    "passport-http-bearer": "^1.0.1",
+    "uuid": "^2.0.1",
+    "validate": "^3.0.1",
+    "winston": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Johan-ZeLearner/erpedia2.git"
+  },
+  "author": "Johan LECHE",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/Johan-ZeLearner/erpedia2/issues"
+  },
+  "homepage": "https://github.com/Johan-ZeLearner/erpedia2"
+}
